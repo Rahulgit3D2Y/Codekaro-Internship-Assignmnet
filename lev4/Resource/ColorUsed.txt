@@ -1,0 +1,5 @@
+Grey
+Black
+White
+hsl(322, 100%, 66%)
+hsl(192, 100%, 9%)

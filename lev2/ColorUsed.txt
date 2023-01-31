@@ -1,0 +1,7 @@
+rgb(190, 180, 180)
+green
+black
+pink
+white
+yellow
+rgb(188, 38, 38)
